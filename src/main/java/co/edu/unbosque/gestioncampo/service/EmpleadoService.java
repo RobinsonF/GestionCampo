@@ -1,12 +1,10 @@
-package co.edu.unbosque.service;
+package co.edu.unbosque.gestioncampo.service;
 
-
-import co.edu.unbosque.dto.CuadrillaDTO;
-import co.edu.unbosque.dto.EmpleadoDTO;
-import co.edu.unbosque.entity.Cuadrilla;
-import co.edu.unbosque.entity.Empleado;
-import co.edu.unbosque.repository.CuadrillaRepository;
-import co.edu.unbosque.repository.EmpleadoRepository;
+import co.edu.unbosque.gestioncampo.dto.EmpleadoDTO;
+import co.edu.unbosque.gestioncampo.entity.Cuadrilla;
+import co.edu.unbosque.gestioncampo.entity.Empleado;
+import co.edu.unbosque.gestioncampo.repository.CuadrillaRepository;
+import co.edu.unbosque.gestioncampo.repository.EmpleadoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

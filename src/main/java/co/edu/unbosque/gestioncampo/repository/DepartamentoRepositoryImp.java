@@ -1,7 +1,6 @@
-package co.edu.unbosque.repository;
+package co.edu.unbosque.gestioncampo.repository;
 
-import co.edu.unbosque.entity.Departamento;
-import co.edu.unbosque.entity.Usuario;
+import co.edu.unbosque.gestioncampo.entity.Departamento;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;

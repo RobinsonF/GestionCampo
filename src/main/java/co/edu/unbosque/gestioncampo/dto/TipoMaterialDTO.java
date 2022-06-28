@@ -1,4 +1,4 @@
-package co.edu.unbosque.dto;
+package co.edu.unbosque.gestioncampo.dto;
 
 public class TipoMaterialDTO {
 

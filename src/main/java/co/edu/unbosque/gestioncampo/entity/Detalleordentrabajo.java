@@ -1,4 +1,4 @@
-package co.edu.unbosque.entity;
+package co.edu.unbosque.gestioncampo.entity;
 
 import java.io.Serializable;
 import javax.persistence.*;

@@ -1,8 +1,7 @@
-package co.edu.unbosque.repository;
+package co.edu.unbosque.gestioncampo.repository;
 
-import co.edu.unbosque.dto.MaterialDTO;
-import co.edu.unbosque.dto.ZonaDTO;
-import co.edu.unbosque.entity.*;
+import co.edu.unbosque.gestioncampo.dto.ZonaDTO;
+import co.edu.unbosque.gestioncampo.entity.*;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;

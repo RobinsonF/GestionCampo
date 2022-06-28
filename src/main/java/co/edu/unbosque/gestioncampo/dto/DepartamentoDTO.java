@@ -1,6 +1,4 @@
-package co.edu.unbosque.dto;
-
-import javax.persistence.Column;
+package co.edu.unbosque.gestioncampo.dto;
 
 public class DepartamentoDTO {
     private Integer idDepartamento;

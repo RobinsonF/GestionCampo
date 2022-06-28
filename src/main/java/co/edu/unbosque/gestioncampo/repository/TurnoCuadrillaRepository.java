@@ -1,6 +1,6 @@
-package co.edu.unbosque.repository;
+package co.edu.unbosque.gestioncampo.repository;
 
-import co.edu.unbosque.entity.Turnocuadrilla;
+import co.edu.unbosque.gestioncampo.entity.Turnocuadrilla;
 
 import java.util.List;
 import java.util.Optional;

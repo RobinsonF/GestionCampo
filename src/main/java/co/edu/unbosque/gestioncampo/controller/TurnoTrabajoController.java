@@ -1,9 +1,8 @@
-package co.edu.unbosque.controller;
+package co.edu.unbosque.gestioncampo.controller;
 
-import co.edu.unbosque.dto.TurnoTrabajoDTO;
-import co.edu.unbosque.dto.UsuarioDTO;
-import co.edu.unbosque.entity.Turnotrabajo;
-import co.edu.unbosque.service.TurnoTrabajoService;
+import co.edu.unbosque.gestioncampo.dto.TurnoTrabajoDTO;
+import co.edu.unbosque.gestioncampo.entity.Turnotrabajo;
+import co.edu.unbosque.gestioncampo.service.TurnoTrabajoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

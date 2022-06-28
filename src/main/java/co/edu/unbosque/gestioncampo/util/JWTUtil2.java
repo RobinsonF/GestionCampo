@@ -1,4 +1,4 @@
-package co.edu.unbosque.util;
+package co.edu.unbosque.gestioncampo.util;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.JwtBuilder;

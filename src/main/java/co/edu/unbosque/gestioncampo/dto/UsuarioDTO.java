@@ -1,4 +1,4 @@
-package co.edu.unbosque.dto;
+package co.edu.unbosque.gestioncampo.dto;
 
 
 import java.security.MessageDigest;

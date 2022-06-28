@@ -1,4 +1,4 @@
-package co.edu.unbosque;
+package co.edu.unbosque.gestioncampo;
 
 import co.edu.unbosque.gestioncampo.GestioncampoApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;

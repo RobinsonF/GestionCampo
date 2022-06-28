@@ -1,8 +1,8 @@
-package co.edu.unbosque.controller;
+package co.edu.unbosque.gestioncampo.controller;
 
-import co.edu.unbosque.dto.TipoMaterialDTO;
-import co.edu.unbosque.entity.Tipomaterial;
-import co.edu.unbosque.service.TipoMaterialService;
+import co.edu.unbosque.gestioncampo.dto.TipoMaterialDTO;
+import co.edu.unbosque.gestioncampo.entity.Tipomaterial;
+import co.edu.unbosque.gestioncampo.service.TipoMaterialService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

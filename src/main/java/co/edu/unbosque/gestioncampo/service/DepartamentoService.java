@@ -1,7 +1,7 @@
-package co.edu.unbosque.service;
+package co.edu.unbosque.gestioncampo.service;
 
-import co.edu.unbosque.entity.Departamento;
-import co.edu.unbosque.repository.DepartamentoRepository;
+import co.edu.unbosque.gestioncampo.entity.Departamento;
+import co.edu.unbosque.gestioncampo.repository.DepartamentoRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

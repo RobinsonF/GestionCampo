@@ -1,4 +1,4 @@
-package co.edu.unbosque.security;
+package co.edu.unbosque.gestioncampo.security;
 
 import lombok.AllArgsConstructor;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

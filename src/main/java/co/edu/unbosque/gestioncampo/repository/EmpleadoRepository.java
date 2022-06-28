@@ -1,10 +1,8 @@
-package co.edu.unbosque.repository;
+package co.edu.unbosque.gestioncampo.repository;
 
-import co.edu.unbosque.dto.CuadrillaDTO;
-import co.edu.unbosque.dto.EmpleadoDTO;
-import co.edu.unbosque.entity.Cuadrilla;
-import co.edu.unbosque.entity.Empleado;
-import co.edu.unbosque.entity.Material;
+
+import co.edu.unbosque.gestioncampo.dto.EmpleadoDTO;
+import co.edu.unbosque.gestioncampo.entity.Empleado;
 
 import java.util.List;
 import java.util.Optional;

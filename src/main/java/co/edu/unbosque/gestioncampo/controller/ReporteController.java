@@ -1,8 +1,8 @@
-package co.edu.unbosque.controller;
+package co.edu.unbosque.gestioncampo.controller;
 
-import co.edu.unbosque.commons.TipoReporteEnum;
-import co.edu.unbosque.dto.ReporteUsuarioDTO;
-import co.edu.unbosque.repository.ReporteRepository;
+import co.edu.unbosque.gestioncampo.commons.TipoReporteEnum;
+import co.edu.unbosque.gestioncampo.dto.ReporteUsuarioDTO;
+import co.edu.unbosque.gestioncampo.repository.ReporteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.InputStreamResource;
 import org.springframework.core.io.Resource;

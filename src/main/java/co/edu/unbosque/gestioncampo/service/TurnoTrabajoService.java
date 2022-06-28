@@ -1,7 +1,7 @@
-package co.edu.unbosque.service;
+package co.edu.unbosque.gestioncampo.service;
 
-import co.edu.unbosque.entity.Turnotrabajo;
-import co.edu.unbosque.repository.TurnoTrabajoRepository;
+import co.edu.unbosque.gestioncampo.entity.Turnotrabajo;
+import co.edu.unbosque.gestioncampo.repository.TurnoTrabajoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

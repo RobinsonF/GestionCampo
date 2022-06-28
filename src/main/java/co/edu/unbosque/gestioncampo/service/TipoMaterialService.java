@@ -1,7 +1,7 @@
-package co.edu.unbosque.service;
+package co.edu.unbosque.gestioncampo.service;
 
-import co.edu.unbosque.entity.Tipomaterial;
-import co.edu.unbosque.repository.TipoMaterialRepository;
+import co.edu.unbosque.gestioncampo.entity.Tipomaterial;
+import co.edu.unbosque.gestioncampo.repository.TipoMaterialRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
-package co.edu.unbosque.repository;
+package co.edu.unbosque.gestioncampo.repository;
 
-import co.edu.unbosque.dto.ReporteUsuarioDTO;
+import co.edu.unbosque.gestioncampo.dto.ReporteUsuarioDTO;
 
 import java.util.Map;
 

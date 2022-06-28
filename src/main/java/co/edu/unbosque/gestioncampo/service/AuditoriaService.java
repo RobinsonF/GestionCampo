@@ -1,9 +1,9 @@
-package co.edu.unbosque.service;
+package co.edu.unbosque.gestioncampo.service;
 
-import co.edu.unbosque.entity.Auditoria;
-import co.edu.unbosque.entity.Usuario;
-import co.edu.unbosque.repository.AuditoriaRepository;
-import co.edu.unbosque.repository.UsuarioRepository;
+import co.edu.unbosque.gestioncampo.entity.Auditoria;
+import co.edu.unbosque.gestioncampo.entity.Usuario;
+import co.edu.unbosque.gestioncampo.repository.AuditoriaRepository;
+import co.edu.unbosque.gestioncampo.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

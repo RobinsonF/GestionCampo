@@ -1,11 +1,7 @@
-package co.edu.unbosque.repository;
+package co.edu.unbosque.gestioncampo.repository;
 
-import co.edu.unbosque.dto.CuadrillaDTO;
-import co.edu.unbosque.dto.MaterialDTO;
-import co.edu.unbosque.dto.OrdenTrabajoDTO;
-import co.edu.unbosque.entity.Cuadrilla;
-import co.edu.unbosque.entity.Material;
-import co.edu.unbosque.entity.Ordentrabajo;
+import co.edu.unbosque.gestioncampo.dto.OrdenTrabajoDTO;
+import co.edu.unbosque.gestioncampo.entity.Ordentrabajo;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;

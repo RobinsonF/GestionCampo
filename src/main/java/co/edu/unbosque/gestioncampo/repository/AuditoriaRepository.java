@@ -1,7 +1,7 @@
-package co.edu.unbosque.repository;
+package co.edu.unbosque.gestioncampo.repository;
 
-import co.edu.unbosque.entity.Auditoria;
-import co.edu.unbosque.entity.Rol;
+import co.edu.unbosque.gestioncampo.entity.Auditoria;
+import co.edu.unbosque.gestioncampo.entity.Rol;
 
 
 import java.util.List;

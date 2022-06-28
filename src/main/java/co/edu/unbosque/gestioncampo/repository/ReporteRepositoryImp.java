@@ -1,8 +1,8 @@
-package co.edu.unbosque.repository;
+package co.edu.unbosque.gestioncampo.repository;
 
-import co.edu.unbosque.commons.JasperReportManager;
-import co.edu.unbosque.commons.TipoReporteEnum;
-import co.edu.unbosque.dto.ReporteUsuarioDTO;
+import co.edu.unbosque.gestioncampo.commons.JasperReportManager;
+import co.edu.unbosque.gestioncampo.commons.TipoReporteEnum;
+import co.edu.unbosque.gestioncampo.dto.ReporteUsuarioDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

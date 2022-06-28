@@ -1,10 +1,10 @@
-package co.edu.unbosque.service;
+package co.edu.unbosque.gestioncampo.service;
 
-import co.edu.unbosque.dto.ZonaDTO;
-import co.edu.unbosque.entity.Ciudad;
-import co.edu.unbosque.entity.Zona;
-import co.edu.unbosque.repository.CiudadRepository;
-import co.edu.unbosque.repository.ZonaRepository;
+import co.edu.unbosque.gestioncampo.dto.ZonaDTO;
+import co.edu.unbosque.gestioncampo.entity.Ciudad;
+import co.edu.unbosque.gestioncampo.entity.Zona;
+import co.edu.unbosque.gestioncampo.repository.CiudadRepository;
+import co.edu.unbosque.gestioncampo.repository.ZonaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

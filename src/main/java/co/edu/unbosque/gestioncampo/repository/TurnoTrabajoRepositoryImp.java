@@ -1,8 +1,6 @@
-package co.edu.unbosque.repository;
+package co.edu.unbosque.gestioncampo.repository;
 
-import co.edu.unbosque.entity.Empleado;
-import co.edu.unbosque.entity.Turnotrabajo;
-import co.edu.unbosque.entity.Usuario;
+import co.edu.unbosque.gestioncampo.entity.Turnotrabajo;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;

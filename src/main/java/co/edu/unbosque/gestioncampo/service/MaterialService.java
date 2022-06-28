@@ -1,12 +1,11 @@
-package co.edu.unbosque.service;
+package co.edu.unbosque.gestioncampo.service;
 
 
-import co.edu.unbosque.dto.MaterialDTO;
-import co.edu.unbosque.entity.Cuadrilla;
-import co.edu.unbosque.entity.Material;
-import co.edu.unbosque.entity.Tipomaterial;
-import co.edu.unbosque.repository.MaterialRepository;
-import co.edu.unbosque.repository.TipoMaterialRepository;
+import co.edu.unbosque.gestioncampo.dto.MaterialDTO;
+import co.edu.unbosque.gestioncampo.entity.Material;
+import co.edu.unbosque.gestioncampo.entity.Tipomaterial;
+import co.edu.unbosque.gestioncampo.repository.MaterialRepository;
+import co.edu.unbosque.gestioncampo.repository.TipoMaterialRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package co.edu.unbosque.security;
+package co.edu.unbosque.gestioncampo.security;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

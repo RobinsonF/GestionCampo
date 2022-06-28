@@ -1,12 +1,7 @@
-package co.edu.unbosque.dto;
+package co.edu.unbosque.gestioncampo.dto;
 
-import co.edu.unbosque.entity.Cuadrilla;
-import co.edu.unbosque.entity.Material;
-import co.edu.unbosque.entity.Zona;
-
-import javax.persistence.*;
 import java.util.Date;
-import java.util.List;
+
 
 public class OrdenTrabajoDTO {
     private Integer idTrabajo;

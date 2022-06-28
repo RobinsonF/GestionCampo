@@ -1,10 +1,7 @@
-package co.edu.unbosque.repository;
+package co.edu.unbosque.gestioncampo.repository;
 
-import co.edu.unbosque.dto.AuditoriaDTO;
-import co.edu.unbosque.dto.UsuarioDTO;
-import co.edu.unbosque.entity.Auditoria;
-import co.edu.unbosque.entity.Rol;
-import co.edu.unbosque.entity.Usuario;
+import co.edu.unbosque.gestioncampo.dto.AuditoriaDTO;
+import co.edu.unbosque.gestioncampo.entity.Auditoria;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;

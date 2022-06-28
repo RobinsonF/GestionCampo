@@ -1,10 +1,10 @@
-package co.edu.unbosque.service;
+package co.edu.unbosque.gestioncampo.service;
 
-import co.edu.unbosque.dto.UsuarioDTO;
-import co.edu.unbosque.entity.Rol;
-import co.edu.unbosque.entity.Usuario;
-import co.edu.unbosque.repository.RolRepository;
-import co.edu.unbosque.repository.UsuarioRepository;
+import co.edu.unbosque.gestioncampo.dto.UsuarioDTO;
+import co.edu.unbosque.gestioncampo.entity.Rol;
+import co.edu.unbosque.gestioncampo.entity.Usuario;
+import co.edu.unbosque.gestioncampo.repository.RolRepository;
+import co.edu.unbosque.gestioncampo.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import javax.transaction.Transactional;

@@ -1,7 +1,7 @@
-package co.edu.unbosque.controller;
+package co.edu.unbosque.gestioncampo.controller;
 
-import co.edu.unbosque.dto.CorreoDTO;
-import co.edu.unbosque.service.EmailService;
+import co.edu.unbosque.gestioncampo.dto.CorreoDTO;
+import co.edu.unbosque.gestioncampo.service.EmailService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

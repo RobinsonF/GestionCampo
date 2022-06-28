@@ -1,4 +1,4 @@
-package co.edu.unbosque.commons;
+package co.edu.unbosque.gestioncampo.commons;
 
 public enum RolEnum {
     ROL_ADMIN,

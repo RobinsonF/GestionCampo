@@ -1,12 +1,5 @@
-package co.edu.unbosque.dto;
+package co.edu.unbosque.gestioncampo.dto;
 
-import co.edu.unbosque.entity.Turnotrabajo;
-import co.edu.unbosque.entity.Usuario;
-
-import javax.persistence.Column;
-import javax.persistence.JoinColumn;
-import javax.persistence.ManyToOne;
-import javax.persistence.criteria.CriteriaBuilder;
 
 public class CuadrillaDTO {
     private Integer idCuadrilla;

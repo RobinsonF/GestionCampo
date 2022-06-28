@@ -1,7 +1,7 @@
-package co.edu.unbosque.repository;
+package co.edu.unbosque.gestioncampo.repository;
 
-import co.edu.unbosque.dto.UsuarioDTO;
-import co.edu.unbosque.entity.Usuario;
+import co.edu.unbosque.gestioncampo.dto.UsuarioDTO;
+import co.edu.unbosque.gestioncampo.entity.Usuario;
 
 import java.util.Date;
 import java.util.List;

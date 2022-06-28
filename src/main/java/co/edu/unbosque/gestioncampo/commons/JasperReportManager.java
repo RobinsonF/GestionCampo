@@ -1,4 +1,4 @@
-package co.edu.unbosque.commons;
+package co.edu.unbosque.gestioncampo.commons;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;

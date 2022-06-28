@@ -1,8 +1,7 @@
-package co.edu.unbosque.repository;
+package co.edu.unbosque.gestioncampo.repository;
 
-import co.edu.unbosque.dto.OrdenTrabajoDTO;
-import co.edu.unbosque.entity.Cuadrilla;
-import co.edu.unbosque.entity.Ordentrabajo;
+import co.edu.unbosque.gestioncampo.dto.OrdenTrabajoDTO;
+import co.edu.unbosque.gestioncampo.entity.Ordentrabajo;
 
 import java.util.List;
 import java.util.Optional;

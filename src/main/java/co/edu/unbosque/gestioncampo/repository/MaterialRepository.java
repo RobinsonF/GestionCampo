@@ -1,9 +1,8 @@
-package co.edu.unbosque.repository;
+package co.edu.unbosque.gestioncampo.repository;
 
 
-import co.edu.unbosque.dto.MaterialDTO;
-import co.edu.unbosque.entity.Material;
-import co.edu.unbosque.entity.Usuario;
+import co.edu.unbosque.gestioncampo.dto.MaterialDTO;
+import co.edu.unbosque.gestioncampo.entity.Material;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,12 +1,8 @@
-package co.edu.unbosque.controller;
+package co.edu.unbosque.gestioncampo.controller;
 
-import co.edu.unbosque.dto.*;
-import co.edu.unbosque.entity.Ciudad;
-import co.edu.unbosque.entity.Empleado;
-import co.edu.unbosque.entity.Ordentrabajo;
-import co.edu.unbosque.entity.Zona;
-import co.edu.unbosque.service.OrdenTrabajoService;
-import co.edu.unbosque.service.ZonaService;
+import co.edu.unbosque.gestioncampo.dto.*;
+import co.edu.unbosque.gestioncampo.entity.Ordentrabajo;
+import co.edu.unbosque.gestioncampo.service.OrdenTrabajoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
